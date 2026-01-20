@@ -1,4 +1,4 @@
-module github.com/BintangStillLerning/say-helo-new
+module github.com/BintangStillLerning/say-helo-new/v2
 
 go 1.25.5
 ///
